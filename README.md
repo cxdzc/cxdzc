@@ -1,3 +1,3 @@
-```
-bWVvdyBtZW93IG1lb3cgbWVvdyBtZW93IG1lb3c=
-```
+Public Repositories:
+https://github.com/cxdzc/TornAPIWrapper
+https://github.com/cxdzc/wifi-credential-exfil
